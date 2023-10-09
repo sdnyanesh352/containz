@@ -9,7 +9,7 @@ import javax.persistence.*;
 import java.util.Collection;
 
 /**
- * Created by  .
+ *    .
  */
 @Getter
 @Setter
